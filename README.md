@@ -48,6 +48,8 @@ Sample DataFrame:
 | Hoisin Glazed Pork and Rice Bowls | A simple yet flavorful bowl that showcases the versatility of Hoisin sauce as a glaze.          | `['Pork Tenderloin', 'Hoisin Sauce', 'Brown Rice', 'Bok Choy', 'Spring Onions']` |
 | Beef and Broccoli Stir-Fry       | A classic Asian stir-fry that's easy to make and freezes well. The oyster sauce adds depth.      | `['Beef Sirloin', 'Broccoli Florets', 'Garlic', 'Ginger', 'Oyster Sauce']`      |
 
+<img width="680" alt="image" src="https://github.com/user-attachments/assets/1c83b9f3-9afd-4c38-9a92-653d7fa3f6d3" />
+
 ---
 
 ## Dependencies
@@ -61,10 +63,4 @@ Sample DataFrame:
   - `sklearn` (for `cosine_similarity`)
   - `sentence-transformers` (or equivalent for embeddings)
 
----
 
-## Usage
-
-1. **Install dependencies**:
-   ```bash
-   pip install cohere pandas numpy scikit-learn sentence-transformers
